@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.alanvieceli.api.dtos.EmpresaDto;
-import com.alanvieceli.api.response.Response;
+import com.alanvieceli.api.responses.Response;
 
 @RestController
 @RequestMapping("/api/empresas")

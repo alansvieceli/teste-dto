@@ -1,4 +1,4 @@
-package com.alanvieceli.api.response;
+package com.alanvieceli.api.responses;
 
 import java.util.ArrayList;
 import java.util.List;
